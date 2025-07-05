@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I am Ashis Kumar Naik
 
+
+- 🔭 I’m currently building [Codex-filehog](https://github.com/ashiskumarnaik/codex-filehog.git) leveraging [Codex](https://github.com/codex-storage/nim-codex.git)
+
+- 👯 Also working on a collaboration project to build a decentralised forum [Waku/Opchan](https://github.com/waku-org/OpChan.git) leveraging Waku [Waku](https://github.com/waku-org/nwaku.git)
 <!--
 **ashiskumarnaik/ashiskumarnaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
